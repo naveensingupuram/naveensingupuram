@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+ float p,r;
+ int n;
+ print(" Enter the princile value\t");
+ scanf("%f",&p);
+ printf("Enter No, of year\t");
+ scanf("%d",&n);
+ printf("Enter Rate oF interest\t');
+ scanf("%f",&r);
+ printf("The SimpleIntrest\t%f",(p*n*r)/100);
+ }
