@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+int u = 5;
+int s = 3;
+cout << ( u!= s);
+return 0;
+}
